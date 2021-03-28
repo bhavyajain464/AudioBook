@@ -1,5 +1,5 @@
 # AudioBook
-AudioBook using kivy interface in python
+AudioBook using kivy interface in python (only read pdf files for now)
 
 Steps to build your own AudioBook:
 1) First clone the repository and go to the root directory of the app.
